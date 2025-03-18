@@ -1,2 +1,3 @@
-# Project
-some cpp practice project
+# Tetris
+
+an enjoyable game to practice cpp project skills.
